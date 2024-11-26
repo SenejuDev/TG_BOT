@@ -15,7 +15,7 @@ internal class Program
     {
         string url = "https://t.me/codingprogramm";
 
-        string Git = "https://github.com/SenejuDev/Telegram-bot";
+        string Git = "https://github.com/SenejuDev/TG_BOT";
 
         Random random = new Random();
 
